@@ -15,11 +15,6 @@ Klasik ama şık bir üst menü (navbar) tasarımı. HTML, CSS ve JavaScript kul
 - CSS3
 - JavaScript (Vanilla)
 
-## 🖼️ Ekran Görüntüsü
-
-![Ekran Görüntüsü](https://github.com/Muhammedpyz/ornek-menu3/raw/main/screenshot.png)
-
-> **Not:** Proje dizinine `screenshot.png` adlı bir ekran görüntüsü eklemen gerekiyor.
 
 ## 🚀 Başlangıç
 
